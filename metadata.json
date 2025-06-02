@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Estoque de Medidores",
+  "description": "Aplicativo web para controle diário de estoque de medidores para concessionária de eletricidade. Permite entrada de dados de almoxarifado e visualização de saldos e dashboards.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
